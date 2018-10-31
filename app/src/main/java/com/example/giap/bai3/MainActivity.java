@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 //comit 1
+// key 'hotfix'
 public class MainActivity extends AppCompatActivity {
 
     @Override
